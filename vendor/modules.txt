@@ -195,7 +195,7 @@ github.com/google/uuid
 # github.com/hashicorp/errwrap v1.1.0
 ## explicit
 github.com/hashicorp/errwrap
-# github.com/hashicorp/go-azure-helpers v0.28.0
+# github.com/hashicorp/go-azure-helpers v0.28.0 => /Users/tom/git/hashicorp/go-azure-helpers
 ## explicit; go 1.17
 github.com/hashicorp/go-azure-helpers/authentication
 github.com/hashicorp/go-azure-helpers/lang/dates
@@ -601,3 +601,4 @@ google.golang.org/protobuf/types/known/timestamppb
 # gopkg.in/yaml.v2 v2.3.0
 ## explicit
 gopkg.in/yaml.v2
+# github.com/hashicorp/go-azure-helpers => /Users/tom/git/hashicorp/go-azure-helpers

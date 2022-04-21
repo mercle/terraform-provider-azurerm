@@ -92,3 +92,5 @@ require (
 )
 
 go 1.18
+
+replace github.com/hashicorp/go-azure-helpers => /Users/tom/git/hashicorp/go-azure-helpers
